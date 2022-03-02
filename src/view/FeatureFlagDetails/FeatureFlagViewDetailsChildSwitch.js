@@ -7,7 +7,7 @@ type Props = $ReadOnly<{
   itemSwitch: SwitchType,
   parentSwitchState: boolean,
 }>;
-//todo
+
 export default function FeatureFlagViewDetailsChildSwitch({
   itemSwitch,
   parentSwitchState,

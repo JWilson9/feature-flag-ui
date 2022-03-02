@@ -22,6 +22,7 @@ export default function FeatureFlagViewDetailsSelect({
 
   return (
     <MUISelect
+      data-testid="view-details-select"
       labelId={select.labelId}
       id={select.id}
       value={selectState}
