@@ -1,3 +1,6 @@
+### fyi code is using flow for static type checking, so you will have to disable @builitin typescript in your workspace for types to not throw an error
+### Todo: Need to finish up the rendering of the feature flag dynamic components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
